@@ -15,7 +15,7 @@
 ### Usage:
 Clone the repository and open the project in your browser.
 ```bash
-git clone https://github.com/yourusername/take-note.git
+git clone https://github.com/coderzaman/take-note.git
 ```
 
 After cloning, you can open the `index.html` file in your browser to start using the app!
